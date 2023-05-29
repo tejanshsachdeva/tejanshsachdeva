@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Self-taught Front-end developer<br>Playing on LeetCode during free time<br>Currently learning Web Development by self<br>I’m currently open for an Intern or a new job opportunity,
+🔧 A passionate Self-taught Front-end developer<br> 😎 Playing on LeetCode during free time<br>Currently learning Web Development by self<br>I’m currently open for an Intern or a new job opportunity,
 
 
 ## 🌐 Socials:
