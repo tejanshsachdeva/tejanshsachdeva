@@ -1,6 +1,6 @@
 # 💫 About Me:
- 🔭A passionate Self-taught Front-end developer<br>⚡ Playing on LeetCode during free time<br>👨‍💻Currently learning Web Development by self<br>
- 📫 Reach out to me at: tejanshsachdeva@gmail.com <br> To have a sneak-peek into my resume, [tap here!!](https://drive.google.com/file/d/1EtnIXLSZs7dDt2lrCScc68xC2y5EEZ5g/view?usp=sharing)
+ <ul>🔭A passionate Self-taught Front-end developer<br>⚡ Playing on LeetCode during free time<br>👨‍💻Currently learning Web Development by self<br>
+ 📫 Reach out to me at: tejanshsachdeva@gmail.com <br>👀 To have a sneak-peek into my resume, [tap here!!](https://drive.google.com/file/d/1EtnIXLSZs7dDt2lrCScc68xC2y5EEZ5g/view?usp=sharing) </ul>
 
 
 ## 🌐 Socials:
