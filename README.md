@@ -13,6 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tejanshsachdeva&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tejanshsachdeva&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
---
+
 [![](https://visitcount.itsvg.in/api?id=tejanshsachdeva&icon=1&color=4)](https://visitcount.itsvg.in)
 
